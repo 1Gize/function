@@ -1,0 +1,28 @@
+= Bugfix the function
+:library: Asciidoctor
+:idprefix:
+:numbered:
+:toc: preamble
+:toc-title: pass:[<h3>Table od contents</h3>]
+ifdef::env-github[]
+:note-caption: :information_source:
+:tip-caption: :bulb:
+endif::[]
+
+== What is it?
+
+Program works as function which finds middle element of array.
+
+== Dependencies
+
+Only out-of-the-box scala is needed
+
+== How to run?
+
+To run this program first run main class
+
+== What were the main difficulties?
+The main difficulty was understanding the code that was given, to understand it better i
+printed myself every argument that was passed which somewhat helped. After that the main
+problem was solving it and i couldnt do that. I could only make it work for even numbered array
+or for not even never for both(by adding logic gates before executing loop function)
